@@ -1,0 +1,6 @@
+node_modules/
+.env
+uploads/*
+!uploads/.gitkeep
+admin/node_modules/
+admin/dist/
